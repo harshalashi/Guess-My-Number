@@ -1,9 +1,11 @@
 Guess My Number
 
 This is a simple number guessing game built using HTML, CSS, and JavaScript. The game generates a random number between 1 and 20, and the player has to guess the number by inputting their guess in the provided text field. The game provides feedback on whether the guess is too high or too low, and the player has a limited number of attempts to guess the correct number.
+
 Demo
 
-You can view a live demo of the game here.
+You can view a live demo of the game here: https://harshalashi.github.io/Guess-My-Number/ .
+
 Features
 
     Simple and intuitive interface
